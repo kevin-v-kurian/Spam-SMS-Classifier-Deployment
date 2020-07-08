@@ -8,9 +8,3 @@ Deployed at: https://spam-sms-finder.herokuapp.com/
 
 • If you are searching for __Code, Algorithms used and Accuracy of the model__. Click the link mentioned below for the same:<br />
 Link: https://github.com/kevin-v-kurian/Natural-Language-Processing-Projects
-
-
-
-• A glimpse of the web app:
-
-![GIF](readme_resources/spam-sms-web-app)
