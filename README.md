@@ -4,7 +4,7 @@
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
 • If you want to view the deployed model, click on the following link:<br />
-Deployed at: _https://spam-sms-detector.herokuapp.com/_
+Deployed at: https://spam-sms-finder.herokuapp.com/
 
 • If you are searching for __Code, Algorithms used and Accuracy of the model__. Click the link mentioned below for the same:<br />
 Link: https://github.com/kevin-v-kurian/Natural-Language-Processing-Projects
@@ -13,4 +13,4 @@ Link: https://github.com/kevin-v-kurian/Natural-Language-Processing-Projects
 
 • A glimpse of the web app:
 
-![GIF](readme_resources/spam-sms-web-app.gif)
+![GIF](readme_resources/spam-sms-web-app)
